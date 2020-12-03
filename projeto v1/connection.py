@@ -1,4 +1,5 @@
 import cx_Oracle
+'''Inserido esse comentário na versao 1.5'''
 
 ## DADOS DA CONEXÃO
 
