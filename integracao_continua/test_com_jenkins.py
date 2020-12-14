@@ -14,7 +14,7 @@ def test_uol(setup):
     from selenium.webdriver.common.keys import Keys
     import time
 
-    driver = webdriver.Chrome(executable_path="C:\drivers\chromedriver_win32\chromedriver.exe")
+    driver = webdriver.Chrome(executable_path="C:\drivers\chromedriver_win32\chromedriver.exe\")
     driver.get("https://www.uol.com.br/")
 
     print(driver.title)
